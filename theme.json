@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
+    "id": "nodebb-theme-campush",
+    "name": "Campush theme test",
+    "description": "עיצוב פורום תואם לעיצוב האתר",
     "url": "https://github.com/nodebb/nodebb-theme-quickstart"
 }
