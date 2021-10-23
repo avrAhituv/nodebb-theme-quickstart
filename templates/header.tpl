@@ -37,12 +37,12 @@
             <div class="top-navbar">
             <div class="campush-header-container">          
         <a href="https://campush.co.il" class="hidden-lg">
-            <img src="/assets/images/campushLogo.png" width="160" alt="" srcset="">
+            <img src="https://campush.co.il/assets/images/campushLogo.png" width="160" alt="" srcset="">
         </a>       
         <nav class="navbar navbar-fixed-top navbar-expand-lg">        
             <div class="collapse navbar-collapse" id="navbarNav">               
                 <a href="https://campush.co.il" class="hide-mobile lgLogo" >
-                <img src="/assets/images/campushLogo01.png" width="160" alt="" srcset="" class="logoImg"></a>    
+                <img src="https://campush.co.il/assets/images/campushLogo01.png" width="160" alt="" srcset="" class="logoImg"></a>    
                 <ul class="navbar-nav float-left atractionsMenu" >
                     <li class="atractionsMenuLi">
                         <a class=" " href="https://campush.co.il/camp/simulator">סימולטורים</a>
